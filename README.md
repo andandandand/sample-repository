@@ -6,4 +6,6 @@ This is regular text.
 
 **This is bold text.**
 
-This is an uncommitted and untracked change. 
+This is an uncommitted and untracked change.
+
+This is a change written directly in Github.com
